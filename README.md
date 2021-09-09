@@ -26,25 +26,21 @@ Responsive
  
 </details>
 
-
-
-
-
 ## Je website
 
 <details open>
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+https://juicebro.com/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+Homepagina  
+<img src="images/homepagina.jpg" width="375px" alt="omschrijving van de pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+Cold pressed juices
+<img src="images/sappenpagina.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
